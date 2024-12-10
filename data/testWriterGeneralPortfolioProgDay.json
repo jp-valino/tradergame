@@ -1,0 +1,240 @@
+{
+    "stock_pool": [
+        {
+            "original_price": 96.0625919675447,
+            "code": "AAPL",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Apple",
+            "daily_variation": 0.03665631167907474,
+            "buy_price": 0,
+            "current_price": 94.95274776030705,
+            "shares_owned": 0,
+            "sector": "Technology",
+            "realized_profit": 0,
+            "price_history": [
+                96.0625919675447,
+                91.4043461074066,
+                91.5952053641692,
+                94.95274776030705
+            ]
+        },
+        {
+            "original_price": 76.84402173539286,
+            "code": "GOOGL",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Google",
+            "daily_variation": -0.01568764212176197,
+            "buy_price": 0,
+            "current_price": 75.50535349905375,
+            "shares_owned": 0,
+            "sector": "Technology",
+            "realized_profit": 0,
+            "price_history": [
+                76.84402173539286,
+                76.13324771080403,
+                76.70873264439291,
+                75.50535349905375
+            ]
+        },
+        {
+            "original_price": 28.381376370680425,
+            "code": "META",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Facebook",
+            "daily_variation": 0.04574489612063973,
+            "buy_price": 0,
+            "current_price": 28.77505897125745,
+            "shares_owned": 0,
+            "sector": "Technology",
+            "realized_profit": 0,
+            "price_history": [
+                28.381376370680425,
+                28.204614859289297,
+                27.51632743129151,
+                28.77505897125745
+            ]
+        },
+        {
+            "original_price": 46.39564026536698,
+            "code": "PFE",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Pfizer",
+            "daily_variation": -0.0013597350612693008,
+            "buy_price": 0,
+            "current_price": 44.13918746451612,
+            "shares_owned": 0,
+            "sector": "Healthcare",
+            "realized_profit": 0,
+            "price_history": [
+                46.39564026536698,
+                45.68924629779836,
+                44.19928678444002,
+                44.13918746451612
+            ]
+        },
+        {
+            "original_price": 29.95645713615654,
+            "code": "AZN",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Astra Zeneca",
+            "daily_variation": 0.02180238200543157,
+            "buy_price": 0,
+            "current_price": 32.910507299374366,
+            "shares_owned": 0,
+            "sector": "Healthcare",
+            "realized_profit": 0,
+            "price_history": [
+                29.95645713615654,
+                31.27190803736103,
+                32.20828986010274,
+                32.910507299374366
+            ]
+        },
+        {
+            "original_price": 59.78965509811941,
+            "code": "HSBC",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "HSBC Holdings",
+            "daily_variation": -0.02142567410555909,
+            "buy_price": 0,
+            "current_price": 57.24892684609601,
+            "shares_owned": 0,
+            "sector": "Financial",
+            "realized_profit": 0,
+            "price_history": [
+                59.78965509811941,
+                60.81307448945686,
+                58.50237976943559,
+                57.24892684609601
+            ]
+        },
+        {
+            "original_price": 17.978753365814722,
+            "code": "JPM",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "JP Morgan Chase",
+            "daily_variation": -0.013654694437799833,
+            "buy_price": 0,
+            "current_price": 17.9694976055335,
+            "shares_owned": 0,
+            "sector": "Financial",
+            "realized_profit": 0,
+            "price_history": [
+                17.978753365814722,
+                18.283656127250698,
+                18.21826241195642,
+                17.9694976055335
+            ]
+        },
+        {
+            "original_price": 84.36688435346716,
+            "code": "SHEL",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Shell PLC",
+            "daily_variation": 0.030181454830865876,
+            "buy_price": 0,
+            "current_price": 87.16741017054396,
+            "shares_owned": 0,
+            "sector": "Energy",
+            "realized_profit": 0,
+            "price_history": [
+                84.36688435346716,
+                82.39766741360233,
+                84.61364719951692,
+                87.16741017054396
+            ]
+        },
+        {
+            "original_price": 19.33220150830278,
+            "code": "XOM",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Exxon Mobil",
+            "daily_variation": -0.04154085565066197,
+            "buy_price": 0,
+            "current_price": 17.581648648300817,
+            "shares_owned": 0,
+            "sector": "Energy",
+            "realized_profit": 0,
+            "price_history": [
+                19.33220150830278,
+                18.97167720429293,
+                18.343659979618995,
+                17.581648648300817
+            ]
+        },
+        {
+            "original_price": 14.046598197950923,
+            "code": "KO",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Coca-Cola Company",
+            "daily_variation": 0.04260712971986307,
+            "buy_price": 0,
+            "current_price": 14.353326176182582,
+            "shares_owned": 0,
+            "sector": "Consumer Goods",
+            "realized_profit": 0,
+            "price_history": [
+                14.046598197950923,
+                13.35778687793085,
+                13.766763881654215,
+                14.353326176182582
+            ]
+        },
+        {
+            "original_price": 39.8787649994747,
+            "code": "PEP",
+            "sell_price": 0,
+            "potential_profit": 0,
+            "name": "Pepsi Cola",
+            "daily_variation": 0.02848672409690128,
+            "buy_price": 0,
+            "current_price": 39.067400412683746,
+            "shares_owned": 0,
+            "sector": "Consumer Goods",
+            "realized_profit": 0,
+            "price_history": [
+                39.8787649994747,
+                38.30532797785953,
+                37.985322996743825,
+                39.067400412683746
+            ]
+        }
+    ],
+    "balance": 5000,
+    "market_state": "Neutral",
+    "stock_portfolio": [{
+        "original_price": 111,
+        "code": "abcde",
+        "sell_price": 233,
+        "potential_profit": 780,
+        "name": "sample name",
+        "daily_variation": 0.666,
+        "buy_price": 144,
+        "current_price": 222,
+        "shares_owned": 10,
+        "sector": "sample sector",
+        "realized_profit": 123,
+        "price_history": [
+            111,
+            222
+        ]
+    }],
+    "name": "sample portfolio",
+    "pnl_history": [
+        780,
+        780,
+        780
+    ],
+    "trading_day": 3,
+    "total_pnl": 780
+}
